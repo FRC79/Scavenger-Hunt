@@ -19,6 +19,9 @@ import org.usfirst.frc.team79.robot.subsystems.ExampleSubsystem;
  * directory.
  */
 public class Robot extends IterativeRobot {
+	
+	//This is the change I made. Just a simple variable that I'm not even going to use.
+	public static final String TIME = "Krunch Time!";
 
 	public static final ExampleSubsystem exampleSubsystem = new ExampleSubsystem();
 	public static OI oi;
