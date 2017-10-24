@@ -16,6 +16,16 @@ Go to [this website](https://wpilib.screenstepslive.com/s/currentCS/m/java/l/599
 9. Uncheck "Use default location" and enter the location of where the repository was saved on your computer (likely C:\Users\(username)\git\(Project Name)
 10. Finish
 
+## Creating a New Branch
+1. In the top left, open the Git perspective.
+2. Select the current repository and select Branches>Local
+3. Right click on "Local" and select Switch To>New Branch.
+4. Select "master" for source and give the branch a name (use yours for the scavenger hunt)
+5. Select finish and double click on the branch in the list.
+6. Click OK.
+7. Select the Java perspective in the top right.
+8. Edit your code. The changes will be made in the new branch.
+
 ## Pushing to This Repository
 1. In the top left, open the Git perspective.
 2. Select the Git Staging tab on the right.
